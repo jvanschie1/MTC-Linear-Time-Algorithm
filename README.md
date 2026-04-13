@@ -89,7 +89,7 @@ You will be prompted for:
 - Number of reticulations (*r*)
 - Number of networks to generate
 
-The generator starts from a random binary tree with *n* leaves and adds *r* reticulation edges, following the method adapted from Suzuki & Hayamizu (2025) [18].
+The generator starts from a random binary tree with *n* leaves and adds *r* reticulation edges, following the method adapted from Suzuki & Hayamizu (2025) [https://github.com/hayamizu-lab/structure-support-networks].
 
 ### Using a Custom Network
 
